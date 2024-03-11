@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to https://google.com",
+        "step 2: Click on link  -> Navigate to page 'laminat'",
+        "step 3: Click on button",
+        "step 4: Click on div",
+        "step 5: Click on span",
+        "step 6: Click on link",
+        "step 7: Click on button",
+        "step 8: Click on link  -> Navigate to page 'paging/*'",
+        "step 9: Click on button",
+        "step 10: Click on header",
+        "step 11: Click on link 'Wei\\xdf (13)' -> Navigate to page 'zubehoer/ecken-verbinder/alle-ecken-verbinder'",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
